@@ -1,0 +1,6 @@
+Como usar:
+1. flutter create app_atm
+2. Copie para dentro da pasta criada: lib/, imagens/ e pubspec.yaml (substituindo os existentes)
+3. flutter pub get
+4. flutter run
+Imagens sao provisorias (geradas); substitua pelas suas mantendo os nomes.
